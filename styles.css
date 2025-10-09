@@ -141,6 +141,9 @@ footer {
 
 @media only screen and (max-width: 679px) {
 
+    .icon i {
+    font-size: 2rem; 
+}
 
   .footerlink {
     font-size: 1rem;
