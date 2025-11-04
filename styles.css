@@ -308,9 +308,7 @@ footer {
 
 
 @media only screen and (min-width: 1024px) {
-body {
-   cursor: url('myimages/soft-drink.png'), auto;
-}
+
   .topnav {
     min-height: 5rem;
   }
